@@ -3,22 +3,44 @@
     {
       "id": "R_kgDOJWL0-g",
       "name": "Arkicool Website",
-      "createdAt": "2023-04-13T04:18:19Z",
+      "createdAt": "2024-11-13T04:18:19Z",
       "url": "https://arkicoolservices.com",
       "description": "Made with React",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React",
+          "iconifyClass": "devicon:react-wordmark"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Tailwind",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "Parking Management",
+      "name": "Parking Mangement",
+      "createdAt": "2025-04-21T04:18:19Z",
+      "url": "https://parking-management-gules.vercel.app",
+      "description": "Made with React, Tailwind",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "devicon:react-wordmark"
+        },
+        {
+          "name": "tailwind",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "Typescript",
+          "iconifyClass": "devicon:typescript"
         }
       ]
     }

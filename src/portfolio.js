@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "A dedicated programmer with a strong vision for turning ideas into reality through focus, innovation, and technical expertise.",
   resumeLink:
-    "https://drive.google.com/file/d/1xTzy2_Vg8u3SM6NDl778wkD_di5fcAQU/view?usp=sharing",
-  portfolio_repository: "https://github.com/EdbertPasamba",
-  githubProfile: "https://github.com/EdbertPasamba",
+    "https://drive.google.com/file/d/1ODybO2fEG71QFY1O3vTSZU3fMXQwAqDH/view?usp=sharing",
+  portfolio_repository: "https://github.com/BertProgrmamming",
+  githubProfile: "https://github.com/BertProgrmamming",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/EdbertPasamba",
+    link: "https://github.com/BertProgrmamming",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
